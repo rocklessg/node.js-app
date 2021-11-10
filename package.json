@@ -1,0 +1,21 @@
+{
+  "name": "hustle",
+  "version": "1.0.0",
+  "description": "hello world node",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Abdulhafiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
